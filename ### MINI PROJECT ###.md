@@ -5,7 +5,8 @@
 # Following are the Steps to setup and maintain above mentioned environment
 
 1. Create an Admin Ec2 instance in AWS
-    ***Launch an Ec2 instance and name it as Admin
+    
+*Launch an Ec2 instance and name it as Admin
 
 2. Create Github Account
     *Sign up for Github Account by providing the user name and mail id 
