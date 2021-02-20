@@ -1,8 +1,8 @@
-###    MINI PROJECT    ###
+#    MINI PROJECT    #
 
 ## setup and maintain a end-to-end CICD pipeline with github,Jenkins,Nexus,Dockerhub,Helm,K8s on AWS(EKS)
 ---
-# Following are the Steps to setup and maintain above mentioned environment
+### Following are the Steps to setup and maintain above mentioned environment
 
 1. Create an Admin Ec2 instance in AWS
     * Launch an Ec2 instance and name it as Admin
